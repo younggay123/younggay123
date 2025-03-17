@@ -1,4 +1,4 @@
-## Hi there 👋
+## 1609 이영휘 대구과학고등학교
 
 <!--
 **younggay123/younggay123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
